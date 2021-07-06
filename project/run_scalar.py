@@ -1,6 +1,6 @@
 """
 Be sure you have minitorch installed in you Virtual Env.
->>> pip install -Ue .
+# >>> pip install -Ue .
 """
 import minitorch
 import matplotlib.pyplot as plt
